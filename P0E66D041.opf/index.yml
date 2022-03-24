@@ -1,11 +1,11 @@
-id: 7681814f50e14361838cf53301d2565d
+id: c396d10442664e0f8f10b1ebcf0fb4f3
 annotation_type: index
 revision: '00001'
 annotations:
-  ae6090db72084f90a0d038b7fb7423e8:
+  049b1cab818b48f0bad7f678be905b39:
     parts: {}
     span:
     - vol: 97
-      start: 1
-      end: 13082
+      start: 0
+      end: 13038
     work_id: Q5706
