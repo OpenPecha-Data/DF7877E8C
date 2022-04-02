@@ -7,21 +7,21 @@ annotations:
     reference: ''
     span:
       start: 0
-      end: 765
+      end: 768
     note_ref: 97a12a95729244418058feef29d68825
   5c50c4f2e5de439f83e82d9e13eed7dc:
     imgnum: 463
     reference: ''
     span:
-      start: 768
-      end: 2135
+      start: 770
+      end: 2137
     note_ref: 97a12a95729244418058feef29d68825
   66cd64380b6d4f2d8619e75f76c881b6:
     imgnum: 464
     reference: ''
     span:
-      start: 2138
-      end: 3442
+      start: 2139
+      end: 3443
     note_ref: 97a12a95729244418058feef29d68825
   dc98892b11034eab92b26b36d3e0a09c:
     imgnum: 465
@@ -34,50 +34,50 @@ annotations:
     imgnum: 466
     reference: ''
     span:
-      start: 4859
-      end: 6260
+      start: 4858
+      end: 6259
     note_ref: 97a12a95729244418058feef29d68825
   6361c2eb92584cf0b7d8b53b9c7fc312:
     imgnum: 467
     reference: ''
     span:
-      start: 6263
-      end: 7690
+      start: 6261
+      end: 7688
     note_ref: 97a12a95729244418058feef29d68825
   792de5ece8ee4f568840757057b96a3e:
     imgnum: 468
     reference: ''
     span:
-      start: 7693
-      end: 9118
+      start: 7690
+      end: 9115
     note_ref: 97a12a95729244418058feef29d68825
   34b9268dfde04be5abc5a8c807069117:
     imgnum: 469
     reference: ''
     span:
-      start: 9121
-      end: 10536
+      start: 9117
+      end: 10532
     note_ref: 97a12a95729244418058feef29d68825
   2225664ecdff4d6aa49ead7bfd33a2c0:
     imgnum: 470
     reference: ''
     span:
-      start: 10539
-      end: 11929
+      start: 10534
+      end: 11924
     note_ref: 97a12a95729244418058feef29d68825
   0420096a830a411a86299ed941a8c0f5:
     imgnum: 471
     reference: ''
     span:
-      start: 11932
-      end: 12690
+      start: 11926
+      end: 12684
     note_ref: 97a12a95729244418058feef29d68825
   97a12a95729244418058feef29d68825:
     imgnum: 472
     reference: ''
     span:
-      start: 12693
-      end: 13051
+      start: 12686
+      end: 13043
 local_ids:
   88c3c0979b5649a9a7987c95f3a791f4: 200000
   5c50c4f2e5de439f83e82d9e13eed7dc: 200001
